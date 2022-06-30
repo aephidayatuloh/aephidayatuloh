@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 👀 I’m a useR (R statistical programing language) and my interest in data wrangling, data visualization and machine learning.
+- 🌱 I’m currently writing several books using R, RStudio and bookdown or quatro package.  
+  * Pengantar Pemrograma R dan RStudio (<https://bookdown.org/aepstk/intror>)  
+  * Statistika dan Sains Data untuk Bisnis (<https://bookdown.org/aepstk/analisisdatabisnis>)  
+  * Statistical Analysis and Machine Learning (<https://bookdown.org/aepstk/saml/>)
+  
