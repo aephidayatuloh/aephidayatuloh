@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hi there 👋, thank you for visiting my GitHub profile.
 
 <!--
 **aephidayatuloh/aephidayatuloh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+You can call me Aep
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
