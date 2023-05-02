@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 👀 I’m a useR (R statistical programing language) and my interest in data wrangling, data visualization and machine learning.
 - 🌱 I’m currently writing several books using R, RStudio and bookdown or quatro package.  
-  * Pengantar Pemrograma R dan RStudio untuk Statistika dan Data Science (<https://bookdown.org/aepstk/intror>)  
+  * Pengantar Pemrograman R dan RStudio untuk Statistika dan Data Science (<https://bookdown.org/aepstk/intror>)  
   * Statistika dan Sains Data dalam Bisnis (<https://bookdown.org/aepstk/analisisdatabisnis>)  
   * Statistical Analysis and Machine Learning for Data Scientist (<https://bookdown.org/aepstk/saml/>)
   
