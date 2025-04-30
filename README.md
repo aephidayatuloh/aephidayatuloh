@@ -15,15 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 Hi there, I'm Aep Hidayatuloh!
+# 👋 I'm Aep Hidayatuloh!
 
-🎓 Data Scientist | 💼 Head of AI at Starcore | 💬 Educator & Writer
+🎓 Data Scientist wanna be | 💼 Head of AI at Starcore | 💬 Educator & Writer
 
 ---
 
 ## 🧠 About Me
 
-I'm a data scientist with over 6 years of experience working in the food & beverage manufacturing industry. Currently leading AI initiatives at **Starcore**, I'm passionate about building **AI products** (especially RAG-based systems) and delivering practical insights from data.
+I'm a data scientist wanna be with over 6 years of experience working in the food & beverage manufacturing industry. Currently leading AI initiatives at **Starcore**, I'm passionate about building **AI products** (especially RAG-based systems) and delivering practical insights from data.
 
 I’m also an educator, actively sharing knowledge about **R, Python, SQL, and Machine Learning**, and writing books and materials to help others grow in the data science field.
 
