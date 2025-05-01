@@ -30,7 +30,7 @@ I’m also an educator, actively sharing knowledge about **R, Python, SQL, and M
 - 🌱 I’m currently writing several books using R, RStudio and bookdown or quarto package.  
   * Pengantar Pemrograman R dan RStudio untuk Statistika dan Data Science (<https://bookdown.org/aepstk/intror>)  
   * Statistika dan Sains Data dalam Bisnis (<https://bookdown.org/aepstk/analisisdatabisnis>)  
-  * Visualisasi Data yang Menarik (<https://bookdown.org/aepstk/visualisasidata/>)
+  * Visualisasi Data yang Efektif (<https://bookdown.org/aepstk/visualisasiefektif/>)
   * Tidy Learning
   
 ---
