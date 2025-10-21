@@ -23,12 +23,12 @@ Here are some ideas to get you started:
 
 ## 🧠 About Me
 
-I'm a data scientist wanna be with over 6 years of experience working in the food & beverage manufacturing industry. Currently leading AI initiatives at **Starcore**, I'm passionate about building **AI products** (especially RAG-based systems) and delivering practical insights from data.
+I'm a data scientist wanna be with over 6 years of experience working in the data analytics consultant industry for bank, telco, retail, and government. Currently leading AI initiatives at **Starcore**, I'm passionate about building **AI products** (especially RAG-based systems) and delivering practical insights from data.
 
 I’m also an educator, actively sharing knowledge about **R, Python, SQL, and Machine Learning**, and writing books and materials to help others grow in the data science field.
 
 - 🌱 I’m currently writing several books using R, RStudio and bookdown or quarto package.  
-  * Pengantar Pemrograman R dan RStudio untuk Statistika dan Data Science (<https://bookdown.org/aepstk/intror>)  
+  * Pengantar Pemrograman R untuk Statistika dan Data Science (<https://bookdown.org/aepstk/intror>)  
   * Statistika dan Sains Data dalam Bisnis (<https://bookdown.org/aepstk/analisisdatabisnis>)  
   * Visualisasi Data yang Efektif (<https://bookdown.org/aepstk/visualisasiefektif/>)
   * Tidy Learning
@@ -48,8 +48,9 @@ I’m also an educator, actively sharing knowledge about **R, Python, SQL, and M
 
 ## 🚀 Current Projects
 
+- 📘 *MLOps with R: Practical End-to-End Machine Learning Projects* - Book on machine learning operations using R  
 - 📘 *Tidy Learning* – Book on data science and machine learning using R
-- 📚 Pengantar Pemrograman R dan RStudio untuk Statistika dan Data Science – Book on introduction to R using RStudio
+- 📚 Pengantar Pemrograman R untuk Statistika dan Data Science – Book on introduction to R using RStudio
 - 🌊 Flood Early Warning System (FEWS) for Bekasi City
 - 🤖 Chatbot RAG for Carbon Credit regulations (on-premise solution)
 - 🧠 AI Insight Platform for analytics automation
